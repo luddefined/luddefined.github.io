@@ -6,14 +6,14 @@ tags:
 - Unreal Engine
 - University Project
 gallery:
-- url: assets\images\ue5-platformer-main.jpg
-  image_path: assets\images\ue5-platformer-main.jpg
-- url: assets\images\ue5-platformer-section.jpg
-  image_path: assets\images\ue5-platformer-section.jpg
-- url: assets\images\ue5-platformer-gameplay.jpg
-  image_path: assets\images\ue5-platformer-gameplay.jpg
+- url: assets/images/ue5-platformer-main.jpg
+  image_path: assets/images/ue5-platformer-main.jpg
+- url: assets/images/ue5-platformer-section.jpg
+  image_path: assets/images/ue5-platformer-section.jpg
+- url: assets/images/ue5-platformer-gameplay.jpg
+  image_path: assets/images/ue5-platformer-gameplay.jpg
 header:
-  image: assets\images\header\ue5-platformer.jpg
+  image: assets/images/header/ue5-platformer.jpg
 ---
 
 {% include video id="1oDdGjbwNLF5u9HgHaDi_hy3i6h-5Bq2c" provider="google-drive" %}

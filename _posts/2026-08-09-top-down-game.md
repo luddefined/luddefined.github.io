@@ -6,12 +6,12 @@ tags:
 - C++
 - University Project
 gallery:
-- url: assets\images\top-down-game-main.jpg
-  image_path: assets\images\top-down-game-main.jpg
-- url: assets\images\top-down-game-gameplay.jpg
-  image_path: assets\images\top-down-game-gameplay.jpg
-- url: assets\images\top-down-game-rooms.jpg
-  image_path: assets\images\top-down-game-rooms.jpg
+- url: assets/images/top-down-game-main.jpg
+  image_path: assets/images/top-down-game-main.jpg
+- url: assets/images/top-down-game-gameplay.jpg
+  image_path: assets/images/top-down-game-gameplay.jpg
+- url: assets/images/top-down-game-rooms.jpg
+  image_path: assets/images/top-down-game-rooms.jpg
 header:
   image: assets/images/header/top-down.jpg
 ---

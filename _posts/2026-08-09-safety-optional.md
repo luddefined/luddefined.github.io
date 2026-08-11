@@ -7,15 +7,15 @@ tags:
 - C#
 - University Project
 gallery:
-- url: assets\images\safety-optional-main.jpg
-  image_path: assets\images\safety-optional-main.jpg
-- url: assets\images\safety-optional-poster.jpg
-  image_path: assets\images\safety-optional-poster.jpg
-- url: assets\images\safety-optional-camera.jpg
-  image_path: assets\images\safety-optional-camera.jpg
+- url: assets/images/safety-optional-main.jpg
+  image_path: assets/images/safety-optional-main.jpg
+- url: assets/images/safety-optional-poster.jpg
+  image_path: assets/images/safety-optional-poster.jpg
+- url: assets/images/safety-optional-camera.jpg
+  image_path: assets/images/safety-optional-camera.jpg
 
 header:
-  image: assets\images\header\safety-optional.jpg
+  image: assets/images/header/safety-optional.jpg
 ---
 
 {% include video id="1d-gpcNCPY3er9X2dgoT-pJMCZ44O_mAE" provider="google-drive" %}

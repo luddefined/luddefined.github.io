@@ -6,12 +6,12 @@ tags:
 - Godot
 - Game Jam
 gallery:
-- url: assets\images\worst-elf-ever-main.jpg
-  image_path: assets\images\worst-elf-ever-main.jpg
-- url: assets\images\worst-elf-ever-flappy-dave.jpg
-  image_path: assets\images\worst-elf-ever-flappy-dave.jpg
-- url: assets\images\worst-elf-ever-cave.jpg
-  image_path: assets\images\worst-elf-ever-cave.jpg
+- url: assets/images/worst-elf-ever-main.jpg
+  image_path: assets/images/worst-elf-ever-main.jpg
+- url: assets/images/worst-elf-ever-flappy-dave.jpg
+  image_path: assets/images/worst-elf-ever-flappy-dave.jpg
+- url: assets/images/worst-elf-ever-cave.jpg
+  image_path: assets/images/worst-elf-ever-cave.jpg
 header:
   image: assets/images/header/worst-elf-ever.jpg
 ---
