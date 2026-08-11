@@ -2,6 +2,53 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
-author_profile: true
+# Tempted to move this into index.html because it seems to not want to display itself correctly when its in here.
+# Probably doing something wrong but the DOCS do not explain what that is.
+layout: splash
+header:
+  overlay_color: "#0c0c12"
+excerpt: here are some projects i have worked on that i think are quite cool.
+
+# Feature row images need to be 16:9 (1920x1080 or 1280x720)
+# Everything related to a particular project is prefixed with its game-name
+# Image names should be assets\images\game-name-main.jpg
+# URL for projects are /projects/game-name
+
+# Safety Optional
+feature_row:
+- image_path: assets\images\safety-optional-main.jpg
+  title: "Safety Optional"
+  excerpt: "a party game about crazy forklifts."
+  btn_label: "View"
+  url: "/projects/safety-optional"
+
+# UE5 Platformer
+- image_path: assets\images\ue5-platformer-main.jpg
+  title: "Unnamed Platformer"
+  excerpt: "an action platformer featuring coloured cards."
+  btn_label: "View"
+  url: "/projects/unnamed-platformer"
+
+# Top-down C++
+- image_path: assets\images\top-down-game-main.jpg
+  title: "Top Down Game"
+  excerpt: "an endless top-down side-scrolling game."
+  btn_label: "View"
+  url: "/projects/top-down-game"
+
+# Worst Elf Ever
+- image_path: assets\images\worst-elf-ever-main.jpg
+  title: "Worst Elf Ever"
+  excerpt: "this is technically my first ever game."
+  btn_label: "View"
+  url: "/projects/worst-elf-ever/"
+
+# Tea Time
+- image_path: assets\images\tea-time-main.jpg
+  title: "Tea Time"
+  excerpt: "the game jam project about making tea."
+  btn_label: "View"
+  url: "/projects/tea-time/"
 ---
+
+{% include feature_row %}

@@ -1,0 +1,43 @@
+---
+# Tempted to move this into index.html because it seems to not want to display itself correctly when its in here.
+# Probably doing something wrong but the DOCS do not explain what that is.
+# It is definitely not because I am stupid because I am never stupid and I am always right and Everyone else is wrong.
+layout: splash
+header:
+  overlay_color: "#333"
+#   Must Do This Eventually when I get a 'Mega Cool' header image
+#   image: 
+#   image_description: The Coolest Thing Ever 
+excerpt: here are some projects i have worked on that i think are cool and interesting.
+
+# Safety Optional
+feature_row:
+  image_path: /assets/images/
+  title: Safety Optional
+
+# UE5 Platformer
+  image_path: /assets/images/
+  title: Unnamed Action Platformer
+
+# Top-down C++
+  image_path: /assets/images/
+  title: Top Down Game
+---
+{%- assign locale = page.locale | default: layout.locale | default: site.locale %}
+
+{{ content }}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[locale].recent_posts | default: "hi" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html locale=locale entries=posts type=entries_layout %}
+</div>
+
+{% include paginator.html locale=locale %}
