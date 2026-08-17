@@ -34,4 +34,6 @@ Did this unlock the potential to make truly inspirational stuff? What you see he
 
 Despite the simplicity of the game's content, the codebase which powers it is all fairly complex and well developed to allow for semi-dynamic merging of any item, provided there exists a sprite for that combination (that's where the 'semi' part comes from), and if it weren't for dealing with other assignments I could have very easily added more rooms to confuse onlookers that more depth exists behind each unopened door.
 
+# Gallery
+
 {% include gallery %}
