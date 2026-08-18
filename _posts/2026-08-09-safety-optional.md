@@ -5,7 +5,7 @@ categories:
 tags:
 - Unity
 - C#
-- University Project
+- University Project 
 gallery:
 - url: assets/images/safety-optional-main.jpg
   image_path: assets/images/safety-optional-main.jpg

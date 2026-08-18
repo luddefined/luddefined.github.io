@@ -22,7 +22,7 @@ header:
 # Also this header is really funny
 ---
 
-> [See project repository and download here.](https://github.com/Faisa-l/AT-Sensory-Friendly-Experiences-Project)
+> [See project repository and download here.](https://github.com/Faisa-l/AT-Interactivity-for-Activity-Project)
 {: .notice--primary}
 
 **Original project date:** 24/10/25 - 18/10/25
