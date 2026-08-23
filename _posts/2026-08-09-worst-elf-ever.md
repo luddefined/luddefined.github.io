@@ -1,5 +1,6 @@
 ---
 title: "Worst Elf Ever"
+excerpt: "this is technically my first ever game."
 categories:
 - Projects
 tags:
@@ -18,7 +19,7 @@ header:
 
 {% include video id="1smzTaVxQb-LniJ3GMQEbpDdWE7T41STB" provider="google-drive" %}
 
-<iframe height="167" frameborder="0" src="https://itch.io/embed/2440147" width="552"><a href="https://cardline.itch.io/worst-elf-ever">Worst Elf Ever by Cardline, ellabox, wavcat</a></iframe>
+<iframe style="height:200px; width:stretch;" frameborder="0" src="https://itch.io/embed/2440147"><a href="https://cardline.itch.io/worst-elf-ever">Worst Elf Ever by Cardline, ellabox, wavcat</a></iframe>
 {: .align-center}
 
 **Original project date:** 18/12/23 - 26/12/23

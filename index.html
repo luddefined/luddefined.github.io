@@ -77,6 +77,19 @@ feature_row:
   excerpt: "the first of many platformers."
   btn_label: "View"
   url: "/projects/cpp-platformer"
+
+# Other stuff (unsure about image_path being empty but it gives the effect i want)
+feature_row2:
+- image_path: 
+  title: "The Random Projects"
+  excerpt: "for a bunch of other miscellaneous stuff i've done, this is where it's at."
+  btn_label: "View"
+  url: "/random-projects/"
 ---
 
+
 {% include feature_row %}
+
+<img src="assets/images/random-projects-main.jpg" alt="Four random projects." style="height:auto; width:auto;">
+{% include feature_row id="feature_row2" type="center" %}
+

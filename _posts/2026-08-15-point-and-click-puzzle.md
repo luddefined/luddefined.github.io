@@ -1,5 +1,6 @@
 ---
 title: "Point and Click Puzzle"
+excerpt: "a very tiny puzzle game."
 categories:
 - Projects
 tags:

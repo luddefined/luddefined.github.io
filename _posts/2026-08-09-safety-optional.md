@@ -1,5 +1,6 @@
 ---
 title: "Safety Optional"
+excerpt: "a party game about crazy forklifts."
 categories:
 - Projects
 tags:
@@ -16,11 +17,12 @@ gallery:
 
 header:
   image: assets/images/header/safety-optional.jpg
+
 ---
 
 {% include video id="1d-gpcNCPY3er9X2dgoT-pJMCZ44O_mAE" provider="google-drive" %}
 
-<iframe height="167" width="552" src="https://itch.io/embed/4525363" frameborder="0"><a href="https://runtimeerrorstudios.itch.io/safety-optional">Safety Optional by RuntimeErrorStudios</a></iframe>
+<iframe style="height:200px; width:stretch;" src="https://itch.io/embed/4525363" frameborder="0"><a href="https://runtimeerrorstudios.itch.io/safety-optional">Safety Optional by RuntimeErrorStudios</a></iframe>
 {: .align-center}
 
 **Original project date:** 23/10/25 - 23/04/26

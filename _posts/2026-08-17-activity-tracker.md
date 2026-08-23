@@ -1,5 +1,6 @@
 ---
 title: "Activity Tracker"
+excerpt: "an android light physical activity tracker."
 categories:
 - Projects
 tags:

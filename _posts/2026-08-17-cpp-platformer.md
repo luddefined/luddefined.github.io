@@ -1,5 +1,6 @@
 ---
 title: "C++ Platformer"
+excerpt: "the first of many platformers."
 categories:
 - Projects
 tags:

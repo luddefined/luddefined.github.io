@@ -1,5 +1,6 @@
 ---
 title: "Top Down Game"
+excerpt: "an endless top-down side-scrolling game."
 categories:
 - Projects
 tags:

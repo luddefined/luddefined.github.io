@@ -1,5 +1,6 @@
 ---
 title: "Unnamed Platformer"
+excerpt: "an action platformer featuring coloured cards."
 categories:
 - Projects
 tags:
